@@ -1,0 +1,80 @@
+a{
+    text-decoration: none;
+    transition: ease all .3s;
+}
+.top-section{
+    background-color: #FFFBF0;
+    padding-left: 5px;
+}
+.moto-top{
+ padding-left: 30px;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    color: #363958;
+}
+h6{
+    font-family: 'Roboto', sans-serif;
+    color:#3E3E3E;
+}
+.moto{
+    color: #FABE4C;
+}
+.moto-button{
+   background-color: #A4BC46;
+   color: white;
+   font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 48;
+    font-weight: bolder;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    }
+ h2{
+     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+     color: #363958;
+ }   
+ .price-color{
+    font-family: 'Roboto', sans-serif;
+    color:#FABE4C
+ }
+ h4{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+ }
+ p{
+    font-family: 'Roboto', sans-serif;
+    color:#3E3E3E;
+ }
+ .equal-height-colums{
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     flex-wrap: wrap;
+ }
+ .equal-colum-content{
+     height: 100%;
+ }
+ .bg-color{
+     background-color: gray;
+
+ }
+ .image-height img{
+    background-color:#F1F1F1;
+    border-radius: 10px;
+    height: 420px;
+ }
+ .cart{
+     border-radius: 10px;
+ }
